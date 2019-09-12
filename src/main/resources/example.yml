@@ -1,0 +1,37 @@
+#this is comment
+
+name: Ante
+
+names: #Comment
+    - Jogn
+    - Paul
+    - Ringo
+
+pund_sing: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  assa sasasa
+  saa sda
+  sdadsadsad sads
+  dsadsa sadsadsa
+
+ignore_new_lines: >
+  this is
+  just one long
+  string
