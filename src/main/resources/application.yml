@@ -3,3 +3,10 @@ guru:
     username: JMS username yml
     password: test
     dburl: someUrl
+
+---
+spring:
+    profiles: de
+guru:
+  jms:
+    username: JMS username yml DE
